@@ -1,0 +1,6 @@
+api\Test\UserTest.class
+api\endPoints\routes.class
+api\Payload\User.class
+api\utilities\DataProviders.class
+api\utilities\XLUtilites.class
+api\endPoints\UserEndPoints.class
